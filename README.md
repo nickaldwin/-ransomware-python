@@ -12,5 +12,5 @@
 There are a lot of types of ransomware. The one we will build uses the same
 password to encrypt and decrypt the data. In other words, we use key derivation
 
-this is for educational purpose only
+this is for educational purpose only don't try this @ /~
 
