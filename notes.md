@@ -16,4 +16,4 @@ Deriving the Key from a Password
 First, key derivation functions need random bits added to the password before
 it's hashed; these bits are often called salts, which help strengthen security and
 protect against dictionary and brute-force attacks. Let's make a function to
-generate that using the secrets module
+generate that using the secrets module [Link text Here](https://https://docs.python.org/3/library/secrets.html)
