@@ -1,4 +1,4 @@
-Getting Started
+# Getting Started
 - To get started writing the ransomware, we will be using the cryptography library:
 $ pip install cryptography
 
