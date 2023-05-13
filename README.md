@@ -1,4 +1,4 @@
- # Building Malware
+ # Building Ransomware 
  Ransomware is a type of malware that encrypts the files of a system and
  decrypts only after a sum of money is paid to the attacker.
  Encryption is the process of encoding information so only authorized parties can
